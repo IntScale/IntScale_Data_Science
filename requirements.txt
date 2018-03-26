@@ -1,14 +1,13 @@
 pandas
 numpy
-matplotlib.pyplot
-matplotlib.mlab
+matplotlib
 sklearn
 sys
 scipy.stats 
 warnings
-scipy.stats.stats 
+scipy
 pandas 
 traitlets
 ipywidgets 
-IPython.display
+IPython
 tkinter
