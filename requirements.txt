@@ -1,6 +1,5 @@
 pandas
 numpy
-math
 matplotlib.pyplot
 matplotlib.mlab
 sklearn
