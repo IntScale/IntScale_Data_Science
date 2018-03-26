@@ -1,0 +1,15 @@
+pandas
+numpy
+math
+matplotlib.pyplot
+matplotlib.mlab
+sklearn
+sys
+scipy.stats 
+warnings
+scipy.stats.stats 
+pandas 
+traitlets
+ipywidgets 
+IPython.display
+tkinter
